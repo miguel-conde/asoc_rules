@@ -1,0 +1,3 @@
+# https://towardsdatascience.com/association-rules-2-aa9a77241654
+# https://towardsdatascience.com/complete-guide-to-association-rules-2-2-c92072b56c84
+# https://medium.com/@kil.mar.098/association-analysis-primer-eb2ca279d4d3
